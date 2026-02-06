@@ -1,0 +1,25 @@
+{
+  "name": "aitesters",
+  "version": "1.0.0",
+  "description": "A small Playwright-based test harness and examples for AI-driven UI testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gniazdowski-luk/aitesters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gniazdowski-luk/aitesters/issues"
+  },
+  "homepage": "https://github.com/gniazdowski-luk/aitesters#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.2.1"
+  }
+}
